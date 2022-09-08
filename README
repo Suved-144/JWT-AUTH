@@ -1,0 +1,12 @@
+Hi Guys ....
+This project is just Authentication using JWT Tokens.
+
+First install node & others lib etc ...
+
+In .env file add =>
+MONOGO_URI = 
+PORT = 
+Token = 
+
+
+hit command on terminal "npm start"
